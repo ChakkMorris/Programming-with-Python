@@ -1,2 +1,2 @@
 # python_basics
-This project contains quite basic development codes with Python
+This project contains some basic programming with Python
